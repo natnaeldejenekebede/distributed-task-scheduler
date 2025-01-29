@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/JyotinderSingh/task-queue/pkg/common"
-	"github.com/JyotinderSingh/task-queue/pkg/scheduler"
+	"github.com/natnaeldejenekebede/task-queue/pkg/common"
+	"github.com/natnaeldejenekebede/task-queue/pkg/scheduler"
 )
 
 var (

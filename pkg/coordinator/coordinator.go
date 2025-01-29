@@ -15,11 +15,11 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	pb "github.com/JyotinderSingh/task-queue/pkg/grpcapi"
+	pb "github.com/natnaeldejenekebede/task-queue/pkg/grpcapi"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v4/pgxpool"
 
-	"github.com/JyotinderSingh/task-queue/pkg/common"
+	"github.com/natnaeldejenekebede/task-queue/pkg/common"
 )
 
 const (

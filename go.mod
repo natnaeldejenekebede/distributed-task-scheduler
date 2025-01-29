@@ -1,4 +1,4 @@
-module github.com/JyotinderSingh/task-queue
+module github.com/natnaeldejenekebede/task-queue
 
 go 1.21
 

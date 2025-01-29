@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/natnaeldejenekebede/task-queue/pkg/common"
+	"github.com/natnaeldejenekebede/distributed-task-scheduler/pkg/common"
 	"github.com/jackc/pgx/pgtype"
 	"github.com/jackc/pgx/v4/pgxpool"
 )

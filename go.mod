@@ -1,4 +1,4 @@
-module github.com/natnaeldejenekebede/task-queue
+module github.com/natnaeldejenekebede/distributed-task-scheduler
 
 go 1.21
 
